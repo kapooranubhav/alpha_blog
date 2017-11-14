@@ -1,0 +1,17 @@
+1) Step 1 : Create a my_app folder 
+
+2) Step 2 : Create a new Rail app "alpha_blog" using "rails new" command in my_app folder
+
+3) Step 3 : change directory to alpha_blog
+
+4) Step 4 : Run rail server usning " rail server " 
+
+5) Step 5 : Create page controllers 
+
+6) Step 6 : Initialize the controllers 
+
+5) Step 7 : Check for existing routes in alpha_blog
+
+6) Step 8 : Creating routes for page1 & page2 in routes.rb
+
+7) Step 9 : 
