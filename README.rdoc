@@ -14,4 +14,8 @@
 
 6) Step 8 : Creating routes for page1 & page2 in routes.rb
 
-7) Step 9 : 
+7) Step 9 : Try pushing it through GIT
+
+8) google
+
+
