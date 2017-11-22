@@ -5,3 +5,4 @@ class AddDescriptionToArticles < ActiveRecord::Migration
     add_column :articles, :updated_at, :datetime
   end
 end
+cd 
